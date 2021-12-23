@@ -1,0 +1,24 @@
+{
+  "name": "@codekalimi/kalimi_stripe",
+  "version": "1.0.0",
+  "description": "Stripe subscription package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeaamirkalimi/kalimi_stripe.git"
+  },
+  "keywords": [
+    "stripe",
+    "api",
+    "subscription"
+  ],
+  "author": "Aamir Kalimi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeaamirkalimi/kalimi_stripe/issues"
+  },
+  "homepage": "https://github.com/codeaamirkalimi/kalimi_stripe#readme"
+}
